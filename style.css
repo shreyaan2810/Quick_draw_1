@@ -1,0 +1,23 @@
+body{
+    background-color: aqua;
+    font-size: 35px;
+    text-align: center;
+}
+
+#score{
+   font-size:40px;
+   margin-left:20px;
+   float: left;
+}
+#timer{
+    font-size: 40px;
+    float: right;
+    margin-right: 130px;
+}
+#show_sketch{
+    float: right;
+    margin-right: 40px;
+}
+#trial{
+    font-size: 50px;
+}
